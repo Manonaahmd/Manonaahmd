@@ -5,7 +5,7 @@
 -![](images/WBBlog_KidsCoding.jpg.png)
 -  
 -  👀 I’m interested in coding and AI
-- 🌱 I’m currently learning coding 
+- 🌱 I’m currently learning c+ and Phaython 
 - 💞️ I’m looking to collaborate on New projects
 - 📫 How to reach me mona2118@yahoo.com 
 - 💬 Ask me about anything you want.
